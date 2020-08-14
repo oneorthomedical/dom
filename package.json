@@ -36,7 +36,7 @@
     "url": "https://github.com/component/dom.git"
   },
   "dependencies": {
-    "component-classes": "1.2.3",
+    "component-classes": "1.2.6",
     "component-css": "0.0.6",
     "component-delegate": "0.2.3",
     "component-each": "0.2.6",
